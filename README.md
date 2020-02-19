@@ -1,8 +1,6 @@
 # SIMPLE-SHELL
 Simulation of a Simple Shell in Java
 
-Simulation of a Simple Shell in Java
-
 commands implemented: (1) ls (2) cd (3) echo (4) ping (5) ipconfig (Windows) (6) ifconfig (Linux y OS X) (7) history
 (8) ! -> (command in history)
 
